@@ -1,0 +1,42 @@
+#body{ 
+margin: 0;
+display: flex
+}
+#fonte{ 
+
+font-family: "Jomhuria", serif;
+font-weight: 400;
+font-style: normal;
+color: black;  
+font-size: 128px;
+}
+
+
+#tabela{
+background-color: #1A2463;
+height: 100vh;
+}
+
+#texto{
+font-family: "Jomhuria", serif;
+font-weight: 400;
+font-style: normal;
+color: white;  
+font-size: 64px;
+
+}
+nav{ 
+display: flex;
+gap: 10px;
+align-items: center;
+}
+
+#botoesnav{
+padding-right: 10px;
+
+}
+
+#navmargin  {
+margin-left: 40rem;
+
+}

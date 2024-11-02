@@ -1,0 +1,90 @@
+body {
+margin: 0;
+display: flex;
+}
+
+
+
+
+#Azul {
+background-color: #1A2463;
+width: 50%;
+height: 100vh;
+display: flex;
+flex-direction: column;
+padding-top: 2%;
+}
+
+
+#titulo {
+font-family: "Jomhuria", serif;
+font-weight: 400;
+font-style: normal;
+color: white;  
+font-size: 64px;
+}
+
+#htmlicone{
+height: 60px;
+}
+
+#html{
+font-family: "Jomhuria", serif;
+font-style: normal;
+color: white;  
+font-size: 60px;
+padding-top: 2%;
+}
+
+
+#cssicone {
+height: 60px;
+}
+
+#css{
+font-family: "Jomhuria", serif;
+font-style: normal;
+color: white;  
+font-size: 60px;
+}
+
+#sharpicone{
+height: 60px;
+}
+    
+#csharp{
+font-family: "Jomhuria", serif;
+font-style: normal;
+color: white;  
+font-size: 60px;
+}
+
+
+#mccicone{
+height: 60px;
+}
+        
+#mcc{
+font-family: "Jomhuria", serif;
+font-style: normal;
+color: white;  
+font-size: 60px;
+}
+
+
+#msqlicone{
+height: 60px;
+}
+            
+#msql{
+font-family: "Jomhuria", serif;
+font-style: normal;
+color: white;  
+font-size: 60px;
+}
+
+#ladodireito{
+width: 100%;
+text-align: center;
+margin-top: 30px;
+}
